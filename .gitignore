@@ -1,3 +1,5 @@
 *.zip
 ucsc-cse-144-winter-2025-final-project/
 data/
+models/
+.conda/
